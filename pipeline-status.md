@@ -20,3 +20,6 @@ https://github.com/QasimBhb/green-energy-saas
 
 ## Blockers
 None
+
+## Phase 2 Update (2026-04-18)
+| QAS-6 | 4a7e185c-a956-479b-83bd-0468bdc20a33 | Define product based on green energy research | Product Manager | todo |
